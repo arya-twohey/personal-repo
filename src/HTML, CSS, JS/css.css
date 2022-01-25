@@ -1,7 +1,23 @@
+.separator{
+width: 9%;
+text-align: left;
+margin-left: 0;
+}
+/* Not sure why this isnt effecting the caption class??? */
+.caption{
+font-size: 50px;
 
+}
 
-img{
-border-style: solid;
-border-width: 7px;
-border-color: black;   
+.laptop{
+    text-align: left;
+    position: relative;
+    right: 250px;
+    top: 230px;
+}
+.server{
+    text-align: left;
+    position: relative;
+    left: 300px;
+    top: -200px;
 }

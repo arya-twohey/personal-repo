@@ -1,23 +1,58 @@
-.separator{
-width: 9%;
-text-align: left;
-margin-left: 0;
+body{
+    background-color: rgb(174, 192, 252);
+    font-family: "Roboto", sans-serif;
 }
-/* Not sure why this isnt effecting the caption class??? */
-.caption{
-font-size: 50px;
+header{
+    background-color: rgb(126, 118, 214);
 
 }
 
-.laptop{
-    text-align: left;
-    position: relative;
-    right: 250px;
-    top: 230px;
+
+head{
+    font-family: "Roboto", sans-serif;
 }
-.server{
-    text-align: left;
+
+.sign-up{
+    font-size: large;
+    font-family: "montserrat", sans-serif;
     position: relative;
-    left: 300px;
-    top: -200px;
+    text-align: left;
+    left:700px;
+    border:1px solid rgb(174, 192, 252);
+    background-color: rgb(174, 192, 252);
+}
+
+
+
+.cart{
+    font-family: "montserrat", sans-serif;
+    font-size: large;
+    position: relative;
+    text-align: left;
+    left:440px;
+    border:1px solid rgb(174, 192, 252);
+    background-color: rgb(174, 192, 252);
+    
+
+}
+
+.about-us{
+    font-size: large;
+    font-family: "montserrat", sans-serif;
+    position: relative;
+    text-align: left;
+    left: 665px;
+    border:1px solid rgb(174, 192, 252);
+    background-color: rgb(174, 192, 252);
+    
+}
+
+.about-us:hover{
+    color: #fff;
+
+}.cart:hover{
+    color: #fff;
+
+}.sign-up:hover{
+    color: #fff;
 }

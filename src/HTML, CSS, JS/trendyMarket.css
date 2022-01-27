@@ -97,3 +97,17 @@ head{
 .settings-button:hover{
     color: #fff;
 }
+.bottom-info1{
+    position: relative;
+    top: 900px;
+}
+.bottom-info2{
+    position: relative;
+    top: 830px;
+    text-align: left;
+    left: 300px;
+}
+.bottom-line{
+    position: relative;
+    bottom: 50px;
+}

@@ -60,39 +60,20 @@ head{
    left: 1375px;
    bottom: 50px;
 }
-.customer-service-icon{
-    border:1px solid rgb(126, 118, 214);
-    background-color: rgb(126, 118, 214);
+.settings-button{
+    background-color: rgb(174, 192, 252);
+    border:1px solid rgb(174, 192, 252);
     position: relative;
     text-align: left;
-    left: 1213px;
-    bottom: 58px;
-}
-
-.settings-icon{
-    border:1px solid rgb(126, 118, 214);
-    background-color: rgb(126, 118, 214);
-    position: relative;
-    text-align: left;
-    left: 1380px;
-    bottom: 60px;
-}
-.cart-icon{
-    border:1px solid rgb(126, 118, 214);
-    background-color: rgb(126, 118, 214);
-    position: relative;
-    text-align: left;
-    left: 1295px;
+    left: 1340px;
     bottom: 60px;
 }
 .cart{
-    border:1px solid rgb(174, 192, 252);
     background-color: rgb(174, 192, 252);
-    position: relative;
-    text-align: left;
-    left: 440px;
-
+    border:1px solid rgb(174, 192, 252);
 }
+
+
 /* Not Working! */
 .settings-button:hover{
     color: #fff;

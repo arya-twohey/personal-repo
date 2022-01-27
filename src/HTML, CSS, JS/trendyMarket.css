@@ -101,6 +101,18 @@ head{
     position: relative;
     top: 900px;
 }
+#currentDate{
+    font-size: larger;
+    font-family: "montserrat", sans-serif;
+    border:1px solid rgb(126, 118, 214);
+    background-color: rgb(126, 118, 214);
+    position: relative;
+    text-align: left;
+    left: 25px;
+    bottom: 345px;
+
+}
+
 .bottom-info2{
     position: relative;
     top: 830px;
@@ -111,7 +123,4 @@ head{
     position: relative;
     bottom: 50px;
 }
-.text{
-    font-family: "Roboto",sans-serif
-    border 1px solid rgb(126, 118, 214);
-}
+
